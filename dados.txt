@@ -1,0 +1,24 @@
+CURSO:Engenharia Informática
+ID:001|Nome:Algoritmos e Estruturas de Dados|Autor:Thomas Cormen|Ano:2009|Qtd:5|Procurado:12
+ID:002|Nome:The C Programming Language|Autor:Brian Kernighan|Ano:1988|Qtd:3|Procurado:8
+CURSO:Gestão
+ID:003|Nome:Principios de Gestão|Autor:Henry Fayol|Ano:2015|Qtd:7|Procurado:4
+ID:004|Nome:Administracao Moderna|Autor:Peter Drucker|Ano:2000|Qtd:2|Procurado:10
+CURSO:Economia
+ID:005|Nome:Economia Politica|Autor:Paul Samuelson|Ano:2010|Qtd:6|Procurado:6
+CURSO:Contabilidade
+ID:006|Nome:Contabilidade Geral|Autor:Antonio Lopes de Sa|Ano:2012|Qtd:4|Procurado:3
+CURSO:Geofísica
+ID:007|Nome:Geofisica Aplicada|Autor:Sheriff e Geldart|Ano:2005|Qtd:3|Procurado:5
+CURSO:Engenharia de Petróleos
+ID:008|Nome:Reservoir Engineering|Autor:Craft e Hawkins|Ano:2015|Qtd:2|Procurado:9
+CURSO:Engenharia Electrotécnica
+ID:009|Nome:Circuitos Electricos|Autor:James Nilsson|Ano:2011|Qtd:5|Procurado:7
+CURSO:Engenharia Mecânica
+ID:010|Nome:Resistencia dos Materiais|Autor:Beer e Johnston|Ano:2013|Qtd:4|Procurado:5
+CURSO:Engenharia de Produção Industrial
+ID:011|Nome:Gestao da Producao|Autor:Nigel Slack|Ano:2018|Qtd:6|Procurado:8
+CURSO:Engenharia Civil
+ID:012|Nome:Fundamentos de Estruturas|Autor:Hibbeler|Ano:2016|Qtd:3|Procurado:6
+CURSO:Engenharia Química
+ID:013|Nome:Principios de Transferencia de Calor|Autor:Frank Incropera|Ano:2014|Qtd:4|Procurado:4

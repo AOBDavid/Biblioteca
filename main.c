@@ -1,5 +1,6 @@
 #include "biblioteca.h"
 
+
 Curso *tabelaCursos[TAM_HASH];
 Emprestimo *listaEmprestimos = NULL;
 int proximoId = 1;
